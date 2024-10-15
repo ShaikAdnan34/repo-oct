@@ -1,5 +1,5 @@
 # repo-oct
 This is my first repository
-<br>Name:Shaik Adnan</br>
-<br>Age:18</br>
-<br>City:Gulbarga</br>
+<b>Name:Shaik Adnan</b>
+<b>Age:18</b>
+<b>City:Gulbarga</b>
